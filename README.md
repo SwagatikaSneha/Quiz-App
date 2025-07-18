@@ -21,7 +21,7 @@ This is a React-based Quiz App that allows users to take quizzes on various topi
 
 ## Demo
 
-You can try out the live demo of the app [Deploy Link](#).
+You can try out the live demo of the app [Deploy Link](quiz-app-tau-three-76.vercel.app).
 
 ## Installation
 
